@@ -21,7 +21,7 @@ If you're wanting to just try it out, there is a 14 day free trial, no tip requi
 
 ### HeroMasterJS Header
 
-![image](https://user-images.githubusercontent.com/2002207/129513368-2ecb9e34-4482-431b-8175-98ec472080b3.png)
+![image](https://user-images.githubusercontent.com/2002207/130293882-67f3bda0-14a5-457d-8d1b-ff6b04e59757.png)
 
 
 ## How to Install in Chrome
@@ -35,13 +35,13 @@ https://github.com/phoenix-tools/HeroMasterJS/blob/master/HeroMasterJS.js
 Navigate to https://stephero.io/
 
 Open the newly installed Chrome Extension's Custom CSS and JS extension
-<img src="https://user-images.githubusercontent.com/2002207/129513471-e0e32471-e7fa-4b75-b3f1-c0acb252c7b4.png" width="800">
+<img src="https://user-images.githubusercontent.com/2002207/130293956-28cde76a-3141-45fb-9cda-e84368fa4b45.png" width="800">
 
-And click "add new" to create a new custom JS/CSS profile for the CrytoHERO website
+And click "add new" to create a new custom JS/CSS profile for the stephero.io website
 <img src="https://user-images.githubusercontent.com/2002207/128646467-657c566b-2abf-4257-a007-4046923ae12b.png" width="800">
 
 Add the raw code that was copied earlier into the JavaScript panel, and save the profile.
-<img src="https://user-images.githubusercontent.com/2002207/129513558-281dbe5e-dfac-4859-866e-aa63f5e2a160.png" width="800">
+<img src="https://user-images.githubusercontent.com/2002207/130294029-8b06b64c-f7fc-4705-b264-d5e985ed4359.png" width="800">
 
 And that's it! The next time you access https://stephero.io/ the JavaScript code should be loaded and HeroMasterJS operating. 
 
